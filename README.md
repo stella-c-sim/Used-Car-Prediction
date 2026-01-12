@@ -1,5 +1,9 @@
-# 📊 Used Car Prediction
+# Used Car Prediction
 
 Predict price of used cars
 
-- **Data Source:** (Kaggle)
+Models:
+1. Logistic Regression: 92.12% Accuracy
+2. Ridge Regression: 90.24% Accuracy
+
+- **Data Source:** (MIT Applied Data Science Course)
