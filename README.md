@@ -1,6 +1,6 @@
 # Used Car Prediction
 
-Predict price of used cars
+Predict the price of used cars
 
 Models:
 1. Logistic Regression: 92.12% Accuracy
